@@ -1,3 +1,11 @@
+/*https://philipwalton.github.io/solved-by-flexbox/demos/vertical-centering/*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
 .wrapper {
     margin: auto;
     height: 480px;
@@ -114,21 +122,20 @@
     background-color: yellow;
 }
 
-.fourt-a {
+.fourth-a {
     flex: 1;
     background-color:hotpink;
 }
 
-.fourt-b {
+.fourth-b {
     flex: 1;
     background-color: dodgerblue;
     display: flex;
     align-items: center;
     justify-content: center;
-  
 }
 
-.fourt-c {
+.fourth-c {
     flex: 1;
     background-color: darkcyan;
 }

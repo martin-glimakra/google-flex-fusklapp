@@ -1,0 +1,139 @@
+.wrapper {
+    margin: auto;
+    height: 480px;
+    width: 640px;
+    display: flex;
+    flex-direction: column;
+}
+
+.first {
+    background-color: aqua;
+    flex: 1;
+    display: flex;
+}
+
+.second {
+    background-color: blue;
+    flex: 7;
+    display: flex;
+}
+
+.third {
+    background-color: chartreuse;
+    flex: 1;
+    display: flex;
+}
+
+.fourth {
+    background-color: cornsilk;
+    flex: 1;
+    display: flex;
+}
+
+.first-a {
+    background-color: crimson;
+    flex: 10;
+}
+
+.first-b {
+    background-color: darkcyan;
+    flex: 1;
+}
+
+.first-c {
+    background-color: crimson;
+    flex: 1;
+}
+
+.first-d {
+    background-color: darkcyan;
+    flex: 1;
+}
+
+.first-e {
+    background-color: darkgrey;
+    flex: 1;
+}
+
+.second-a {
+    flex: 1;
+    background-color: darkkhaki;
+}
+
+.second-b {
+    flex: 2;
+    background-color: darkorange;
+    display: flex;
+    flex-direction: column;
+}
+
+.second-c {
+    flex: 1;
+    background-color: darkorchid;
+}
+
+.s-b-1 {
+    flex: 1;
+    background-color: darksalmon;
+}
+
+.s-b-2 {
+    flex: 2;
+    background-color: dodgerblue;
+    display: flex;
+    flex-direction: column;
+}
+
+.s-b-3 {
+    flex: 1;
+    background-color: darkcyan;
+}
+
+.third-a {
+    flex: 1;
+    background-color: dodgerblue;
+}
+
+.third-b {
+    flex: 10;
+    background-color: darksalmon;
+}
+
+.logo-container {
+    flex: 2;
+    background-color: fuchsia;
+}
+
+.input-container {
+    flex: 1;
+    background-color: coral;
+}
+
+.btn-container {
+    flex: 1;
+    background-color: yellow;
+}
+
+.fourt-a {
+    flex: 1;
+    background-color:hotpink;
+}
+
+.fourt-b {
+    flex: 1;
+    background-color: dodgerblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  
+}
+
+.fourt-c {
+    flex: 1;
+    background-color: darkcyan;
+}
+
+#carbon {
+    max-width: 50%;
+    /* text-align: center; */
+}
